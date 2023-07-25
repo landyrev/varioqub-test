@@ -1,0 +1,11 @@
+framework module Varioqub {
+  umbrella header "Varioqub.h"
+
+  export *
+  module * { export * }
+}
+
+module Varioqub.Swift {
+    header "Varioqub-Swift.h"
+    requires objc
+}

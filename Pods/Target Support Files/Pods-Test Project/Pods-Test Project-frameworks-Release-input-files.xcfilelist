@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Test Project/Pods-Test Project-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Varioqub/Core/Varioqub.framework/Varioqub
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Varioqub/MetricaAdapterReflection/MetricaAdapterReflection.framework/MetricaAdapterReflection
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Varioqub/VQSwiftProtobuf/VQSwiftProtobuf.framework/VQSwiftProtobuf

@@ -1,0 +1,3 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Varioqub.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MetricaAdapterReflection.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/VQSwiftProtobuf.framework

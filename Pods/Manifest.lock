@@ -1,0 +1,35 @@
+PODS:
+  - Varioqub (0.5.0):
+    - Varioqub/Core (= 0.5.0)
+  - Varioqub/Core (0.5.0):
+    - Varioqub/VQSwiftProtobuf
+  - Varioqub/MetricaAdapterReflection (0.5.0):
+    - Varioqub/Core
+    - Varioqub/VQSwiftProtobuf
+  - Varioqub/VQSwiftProtobuf (0.5.0)
+  - YandexMobileMetrica (4.5.2):
+    - YandexMobileMetrica/Static (= 4.5.2)
+  - YandexMobileMetrica/Static (4.5.2):
+    - YandexMobileMetrica/Static/Core (= 4.5.2)
+    - YandexMobileMetrica/Static/Crashes (= 4.5.2)
+  - YandexMobileMetrica/Static/Core (4.5.2)
+  - YandexMobileMetrica/Static/Crashes (4.5.2):
+    - YandexMobileMetrica/Static/Core
+
+DEPENDENCIES:
+  - Varioqub (~> 0.5)
+  - Varioqub/MetricaAdapterReflection (~> 0.5)
+  - YandexMobileMetrica (~> 4.5.2)
+
+SPEC REPOS:
+  trunk:
+    - Varioqub
+    - YandexMobileMetrica
+
+SPEC CHECKSUMS:
+  Varioqub: e4e9b62953ec36decf84e18e492dd85e1764a65b
+  YandexMobileMetrica: f5368ee93f286c793d73b58da00929babfc897c1
+
+PODFILE CHECKSUM: 7ce8a82abf2a90d7f3535e23262eeba1964452a3
+
+COCOAPODS: 1.12.1
